@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    djole	lala	lala@lala.com
 
 # THANKS
 
